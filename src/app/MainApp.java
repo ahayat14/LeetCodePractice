@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class MainApp {
     public static void main(String[] args) {
+        System.out.println("This is a new line");
         AddTwoNumber obj = new AddTwoNumber();
 
         System.out.print("Type a number: ");
